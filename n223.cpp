@@ -17,5 +17,4 @@ int main() {
     cin >> target;
 
    cout << count(v.begin(), v.end(), target);
-
 }
