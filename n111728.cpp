@@ -1,3 +1,8 @@
+/*
+//This solution works only for 6 tests even using the lower_bound and upper_bound built-in functions;
+*/
+
+
 #include <iostream>
 #include <vector>
 #include <utility>
