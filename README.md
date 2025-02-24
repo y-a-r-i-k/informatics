@@ -1,1 +1,1 @@
-Problems from [informatics.msk.ru](https://informatics.msk.ru/)
+Problems from [informatics.msk.ru](https://informatics.msk.ru/).
